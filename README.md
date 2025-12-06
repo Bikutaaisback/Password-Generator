@@ -1,2 +1,2 @@
 # Password-Generator
-Has the name Implies
+Using Javascript to generate random strong passwords
